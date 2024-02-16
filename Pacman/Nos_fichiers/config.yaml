@@ -1,0 +1,10 @@
+ColorP1 : KRed
+ColorBOT : KGreen
+KeyUp : z
+KeyDown : s
+KeyLeft : q
+KeyRight : d
+TokenP1 : O
+TokenBOT : H
+BorderChar : #
+NbMap : 1
